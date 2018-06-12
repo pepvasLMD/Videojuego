@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="78" height="8" tilewidth="15" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="xmas game tileset" tilewidth="20" tileheight="20" tilecount="36450" columns="243">
+  <image source="tiles/xmas game tileset.png" width="4866" height="3000"/>
+ </tileset>
+ <layer name="fondo" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJztyslCgVEYgOFvZfhxb8bSIrMWIcmijFmoUBbmYYFQFr8h6QK92841nMWze0yLyBY77HHAD474xQl/MPX792ZWkTkW+MQSK6zxhW9srPqpr2MT6aKHPgYYYoQxJpja9FNf3S7ygle8oYEmWnjHB9p2/dT3aIg8oYAiSiijgiqeUTP0U9+tQySFNDK4Qxb3yOEBeYd+6rt2ioQQRgRRxBBHAkncOPVTn9sl4oEXPvgRwAUuEcSVSz/1nQFyYlPY
+  </data>
+ </layer>
+ <layer name="green" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAHgyCcAAAQ==
+  </data>
+ </layer>
+ <objectgroup name="crystals"/>
+ <layer name="blue" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAHgyCcAAAQ==
+  </data>
+ </layer>
+ <layer name="red" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJztzdcNgDAUxdA3RBagEyChhrb/YHgLpOhaOt82U0oppZT6p8KZlahQo0GLDj08BoyYEBAxY8GKDTsOJJy4cOPB6/L7fBEEE/Y=
+  </data>
+ </layer>
+</map>

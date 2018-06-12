@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="78" height="10" tilewidth="15" tileheight="16" nextobjectid="1">
+ <layer name="Tile Layer 1" width="78" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U1/gCFUBAAB8AwwwAAE=
+  </data>
+ </layer>
+</map>
